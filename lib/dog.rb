@@ -8,4 +8,5 @@ def(name)
 end
 
 def(new_name)
-@d_name = ne
+@d_name = new_name
+end
